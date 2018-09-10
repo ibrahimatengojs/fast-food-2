@@ -56,13 +56,8 @@ git clone https://github.com/kelvinndmo/fast-food-2.git
 | DELETE | /api/orders/<{id}>              | delete a specific order by id         | 
 
 
-### Testing
 
-    nosetests
 
-    - Testing with coverage
-
-    nosetests --with-coverage --cover-package=app
 
 ### Author
 
